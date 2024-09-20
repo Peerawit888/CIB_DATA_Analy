@@ -13,6 +13,6 @@ CibDataAnaly
 9. GitHub
 
 ## Image
-![Data Analyst]([Image URL/Path](https://www.hdatasystems.com/assets/uploads/banner/1639365144.jpg))
+![โลโก้ GitHub]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://www.hdatasystems.com/assets/uploads/banner/1639365144.jpg))
 ## Contact
 สามารถติดต่อได้ที่ กก.4 บก.ป.
